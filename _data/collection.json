@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Margaret Atwood" ] },
+    "summary": { "en": [ "Margaret Atwood Reading in Montreal, Quebec 1974" ] },
+    "items": [
+    ]
+}
